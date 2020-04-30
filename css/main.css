@@ -26,6 +26,10 @@ header h1 {
     padding-left: 1em;
 }
 
+header h3 {
+    padding-left: 1em;
+}
+
 footer {
     box-sizing: border-box;
     padding: 1em;
